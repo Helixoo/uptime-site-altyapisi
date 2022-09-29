@@ -3,7 +3,7 @@
 </div>
 
 # 📜 Kullanım
-> https://www.youtube.com/watch?v=mjBu_OIOptU&t=93s \
+> https://www.youtube.com/watch?v=mjBu_OIOptU&t=93s 
 >
 
 # 🔒 License
